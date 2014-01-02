@@ -1,8 +1,8 @@
 COMP 3000 Project
 ===============
 Team members: Justin Mancini, Kevin Mason, and Matthew Tang.
-
-Full documentation found [here](Linux%20File%20Explorer%20(for%20Windows).pdf).
+Full documentation found [here](Linux%20File%20Explorer.pdf).
+Note: Source code is there, the images are missing :(
 Linux File Explorer
 ---------------
 This application is used as a general file explorer with an integration of Linux commands. It is used
