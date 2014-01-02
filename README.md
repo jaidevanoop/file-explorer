@@ -1,7 +1,7 @@
 COMP 3000 Project
 ===============
-Team members: Justin Mancini, Kevin Mason, and Matthew Tang.
-Full documentation found [here](Linux%20File%20Explorer.pdf).
+Team members: Justin Mancini, Kevin Mason, and Matthew Tang <br>
+Full documentation found [here](Linux%20File%20Explorer.pdf). <br>
 Note: Source code is there, the images are missing :(
 Linux File Explorer
 ---------------
